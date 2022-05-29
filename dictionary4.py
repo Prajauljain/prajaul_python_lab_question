@@ -1,4 +1,4 @@
-ict={}
+dict={}
 size=int(input("enter the size of the dict:"))
 for i in range (size):
     keys=int(input())
